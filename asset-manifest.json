@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/credit-card/static/css/main.27fe8581.css",
+    "main.js": "/credit-card/static/js/main.4abfa1ff.js",
+    "static/js/787.7b8caa9c.chunk.js": "/credit-card/static/js/787.7b8caa9c.chunk.js",
+    "static/media/oakes-grotesk-regular.woff2": "/credit-card/static/media/oakes-grotesk-regular.b7158add05cd3e63a800.woff2",
+    "static/media/credit-card-front.jpg": "/credit-card/static/media/credit-card-front.e6c5de14310b0483c014.jpg",
+    "index.html": "/credit-card/index.html",
+    "main.27fe8581.css.map": "/credit-card/static/css/main.27fe8581.css.map",
+    "main.4abfa1ff.js.map": "/credit-card/static/js/main.4abfa1ff.js.map",
+    "787.7b8caa9c.chunk.js.map": "/credit-card/static/js/787.7b8caa9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27fe8581.css",
+    "static/js/main.4abfa1ff.js"
+  ]
+}
