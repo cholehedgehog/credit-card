@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To View this app navigate to this link
+
+https://cholehedgehog.github.io/credit-card/
+
 ## Available Scripts
 
 In the project directory, you can run:
